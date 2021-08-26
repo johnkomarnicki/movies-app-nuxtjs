@@ -1,0 +1,25 @@
+{
+  "name": "movieapp",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "core-js": "^3.15.1",
+    "nuxt": "^2.15.7"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^8.3.0",
+    "fibers": "^5.0.0",
+    "prettier": "^2.3.2",
+    "pug": "^3.0.2",
+    "pug-plain-loader": "^1.1.0",
+    "sass": "^1.38.0",
+    "sass-loader": "^10.2.0"
+  }
+}
