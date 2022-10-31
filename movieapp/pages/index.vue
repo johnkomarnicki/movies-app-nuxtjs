@@ -116,7 +116,7 @@ export default {
         {
           hid: 'keywords',
           name: 'keywords',
-          content: 'movies, stream, stremaing',
+          content: 'movies, stream, streaming',
         },
       ],
     }
